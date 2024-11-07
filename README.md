@@ -7,9 +7,13 @@ in comparison to the population density. I was able to find the open database of
 with this data, my goal was to compare the population growth rate between 2016 and 2021 for each region and compare it to the number of healthcare facilities per capita. My hypothesis's with this data was that Regions with high population growth and high population density from 2016 to 2021  have lower healthcare facility density in 2020. This would explore the idea that population density, combined with growth, correlates with lower facility density and in such potential barriers of access to the growing population.
 
 
-[Open Database of Healthcare Facilities]([url](https://www.statcan.gc.ca/en/lode/databases/odhf))
+[Open Database of Healthcare Facilities (ODHF)](https://www.statcan.gc.ca/en/lode/databases/odhf)
 
-[Population Census 2016-2021](url)
+
+[Statistics Canada Population Census Table (2021)](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810000501)
+
+
+
 
 # Data Quality 
 Both datasets used in this project -- 2020 Open Healthcare Facilities Database (ODHF) and the 
